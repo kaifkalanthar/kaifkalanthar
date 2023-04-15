@@ -14,41 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifkalanthar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # ✏ Quotes
 "The price of greatness is responsibility." - Winston Churchill            
-# 🗂 Projects
 
-## 1. Curly_B - "Where Reading Meets Learning"
-<ul>
-  <li>Built with React.js, Node.js, MongoDB, npm, and Bootstrap</li>
-  <li>User authentication feature allows users to register and log in to the site</li>
-  <li>Admin-only post creation feature ensures that only approved content is added to the site</li>
-  <li>User-friendly interface allows users to easily navigate through the site and read blogs</li>
-  <li>Well-organized content categorization makes it easy for users to find articles on topics of their interest</li>
-  <li>Interactive design and layout elements enhance the overall user experience</li>
-  <li>Fast load times and optimized page speed ensures that users have a smooth experience while browsing the site</li>
-  <li>Provides a platform for users to learn new information and improve their reading habits, leading to an overall improvement in their quality of life</li>
-  <li>Regularly updated content ensures that users have access to the latest information and trends in the industry</li>
-</ul>
-
-<h6> Screen Shots</h6>
-![](https://user-images.githubusercontent.com/77534625/228042958-cfe0b74f-97ce-468a-9ec3-df913d9a9b24.png)<br/>
-![](https://user-images.githubusercontent.com/77534625/228042964-a0122a37-b39e-4ed4-b73a-b96efdb7eda1.png)<br/>
-![](https://user-images.githubusercontent.com/77534625/228042968-739d180a-ed06-4688-9a27-7c260e2aa005.png)<br/>
-![](https://user-images.githubusercontent.com/77534625/228042972-f8cfe423-7b19-441c-a82c-505d7ff05b9e.png)<br/>
-![](https://user-images.githubusercontent.com/77534625/228042977-4e96bef3-2d3d-4d0b-a01d-8f3b05ea5dee.png)<br/>
-![](https://user-images.githubusercontent.com/77534625/228042980-6bf0c2cd-e5b5-4ab6-8ad1-7a9cea5aa33e.png)<br/>
-
-<h6>Source Code - [https://github.com/kaifkalanthar/Blogging]</h6>
-
-## 2. SpaceX Falcon 9 first stage Landing Prediction
-<ul>
-  <li>To predict if the Falcon 9 first stage will land successfully.</li>
-  <li>To determine the cost of a launch by determining if the first stage will land. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.</li>
-  <li>SpaceX can reuse the first stage of the rocket, saving a significant amount of money on launches. By predicting the success of the landing, the cost of the launch can be determined, making it easier for other companies to compete with SpaceX.</li>
-  <li>Cost comparison: SpaceX advertises Falcon 9 rocket launches for 62 million dollars, while other providers cost upward of 165 million dollars each.</li>
-  <li>A predictive model will be developed to determine the success of the landing of the first stage.</li>
-  <li>Data Science techniques: Data Collection, Data Preprocessing, Data Exploration, Feature Engineering, Model Building, Model Evaluation.</li>
-  <li>Expected outcome: An accurate predictive model that can be used to determine the success of the landing of the Falcon 9 first stage.</li>
-</ul>
-
-<h6>Source Code - [https://github.com/kaifkalanthar/SpaceY]</h6>
 ---
